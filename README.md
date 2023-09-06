@@ -1,0 +1,1 @@
+This project is about my personal cv and the attempt to push to github from vscode.
