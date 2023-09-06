@@ -1,0 +1,16 @@
+/* Reset default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* center all content */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: arial, sans-serif;
+    background-color: #f0f0f0;
+}
